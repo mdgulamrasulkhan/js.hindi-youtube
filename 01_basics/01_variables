@@ -1,0 +1,12 @@
+const accountId = 94550345
+let accountEmail = "hitesh@gmail.com"
+var accountPass = "cdvreihec"
+accountCity="hyderabad"
+console.table([accountId , accountEmail,accountPass]);
+
+accountEmail = "farhan@gmail.com"
+accountPass = "747554"
+accuntCity = "patna"
+console.table([accountId , accountEmail,accountPass]);
+// accountId="asxjdsc"
+console.log(accountId)
