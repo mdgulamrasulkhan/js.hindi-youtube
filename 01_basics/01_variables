@@ -2,8 +2,11 @@ const accountId = 94550345
 let accountEmail = "hitesh@gmail.com"
 var accountPass = "cdvreihec"
 accountCity="hyderabad"
-console.table([accountId , accountEmail,accountPass]);
-
+let accountState;
+console.table([accountId , accountEmail,accountPass, accountState]);
+/*
+prefer not to use var,because of issue in  scope & functional block
+*/
 accountEmail = "farhan@gmail.com"
 accountPass = "747554"
 accuntCity = "patna"
