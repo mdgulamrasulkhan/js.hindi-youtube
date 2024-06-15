@@ -26,3 +26,12 @@ const myfunction = function(){
     console.log("hello world");
 }
 console.log(typeof myfunction);
+
+/* note :-
+type of value        result
+undefined             undefined 
+null                  object
+boolean                boolean
+NUMBER                   number
+STRING                   string
+*/
