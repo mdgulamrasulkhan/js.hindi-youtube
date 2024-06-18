@@ -36,3 +36,7 @@ const myArray2 = new Array (1,2,3,4)
 // console.log(myArray);
 // console.log(myArray.splice(1,3));  it affect real array &  consider last range also
 // console.log(myArray);
+const marvel_Heros = [ "thor" , "ironman" , "spiderman"]
+const dc_heros = ["superman" , "flash" , "batman"]
+const all_Heros = marvel_Heros.push(dc_heros)
+console.log(all_Heros);
