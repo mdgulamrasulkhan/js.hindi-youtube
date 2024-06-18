@@ -3,7 +3,7 @@
 // // // console.log(name + repo +"value");/
 // // console.log(`hello my name is ${name} my repo value is ${repo}` );
 
- const gameName = new String('hi t es h hc')
+//  const gameName = new String('hi t es h hc')
 //  console.log(gameName[4]);
 //  console.log(gameName.__proto__);
 
@@ -25,4 +25,5 @@
 // console.log(url.replace('%20','+'))
 // console.log(url.includes('farhan'))
 // console.log(url.includes('farhaan'))
-console.log(gameName.split(" "));
+// console.log(gameName.split(" "));
+console.log("hello");
