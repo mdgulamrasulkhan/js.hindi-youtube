@@ -12,8 +12,10 @@
 // index = index + 1
 // }
 
-let balance = 11
-do {
-    console.log(`the balance is ${balance}`);
-    balance = balance+1
-} while (balance<=10);
+// let balance = 11
+// do {
+//     console.log(`the balance is ${balance}`);
+//     balance = balance+1
+// } while (balance<=10);
+
+ 
